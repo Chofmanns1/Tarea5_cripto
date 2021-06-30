@@ -1,0 +1,458 @@
+ from [10.3.3.29] (helo=valvesoftware.com) by smtp02.steampowered.com
+ with smtp (Exim 4.76) (envelope-from <noreply@steampowered.com>) id
+ 1VZPmW-0007sg-K9 for cristobalhof@gmail.com; Thu, 24 Oct 2013 11:37:16 -0700
+
+
+ from smtp02.steampowered.com (smtp02.steampowered.com.
+ [208.64.202.38]) by mx.google.com with ESMTPS id
+ z2si1852359qal.10.2013.10.24.11.38.22 for <cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Thu, 24 Oct 2013 11:38:23 -0700
+ (PDT)
+
+ from [10.3.3.18] (helo=valvesoftware.com) by smtp02.steampowered.com
+ with smtp (Exim 4.76) (envelope-from <noreply@steampowered.com>) id
+ 1VZmEF-0002yV-Gk for cristobalhof@gmail.com; Fri, 25 Oct 2013 11:35:23 -0700
+
+
+ from smtp02.steampowered.com (smtp02.steampowered.com.
+ [208.64.202.38]) by mx.google.com with ESMTPS id
+ dj3si4850473pbc.40.2013.10.25.11.36.28 for <cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Fri, 25 Oct 2013 11:36:29 -0700
+ (PDT)
+
+ from [10.3.3.18] (helo=valvesoftware.com) by smtp02.steampowered.com
+ with smtp (Exim 4.76) (envelope-from <noreply@steampowered.com>) id
+ 1W7o2r-0008Tq-7r for cristobalhof@gmail.com; Mon, 27 Jan 2014 07:24:17 -0800
+
+
+ from smtp02.steampowered.com (smtp02.steampowered.com.
+ [208.64.202.38]) by mx.google.com with ESMTPS id
+ tq3si11785987pab.328.2014.01.27.07.25.25 for <cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Mon, 27 Jan 2014 07:25:26 -0800
+ (PST)
+
+ from [10.3.3.18] (helo=valvesoftware.com) by smtp02.steampowered.com
+ with smtp (Exim 4.76) (envelope-from <noreply@steampowered.com>) id
+ 1W8TNj-0006IH-7F for cristobalhof@gmail.com; Wed, 29 Jan 2014 03:32:35 -0800
+
+
+ from smtp02.steampowered.com (smtp02.steampowered.com.
+ [208.64.202.38]) by mx.google.com with ESMTPS id
+ vb2si2298553pbc.97.2014.01.29.03.33.43 for <cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Wed, 29 Jan 2014 03:33:44 -0800
+ (PST)
+
+ from [10.3.3.18] (helo=valvesoftware.com) by smtp02.steampowered.com
+ with smtp (Exim 4.76) (envelope-from <noreply@steampowered.com>) id
+ 1WBqab-0001YL-Va for cristobalhof@gmail.com; Fri, 07 Feb 2014 10:55:49 -0800
+
+
+ from smtp02.steampowered.com (smtp02.steampowered.com.
+ [208.64.202.38]) by mx.google.com with ESMTPS id
+ x3si6039913pbf.151.2014.02.07.10.56.58 for <cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Fri, 07 Feb 2014 10:56:59 -0800
+ (PST)
+
+ from [10.3.3.18] (helo=valvesoftware.com) by smtp02.steampowered.com
+ with smtp (Exim 4.76) (envelope-from <noreply@steampowered.com>) id
+ 1WBzVu-0004Va-Dv for cristobalhof@gmail.com; Fri, 07 Feb 2014 20:27:34 -0800
+
+
+ from smtp02.steampowered.com (smtp02.steampowered.com.
+ [208.64.202.38]) by mx.google.com with ESMTPS id
+ if4si7285213pbc.286.2014.02.07.20.28.43 for <cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Fri, 07 Feb 2014 20:28:43 -0800
+ (PST)
+
+ from [10.3.3.18] (helo=valvesoftware.com) by smtp02.steampowered.com
+ with smtp (Exim 4.76) (envelope-from <noreply@steampowered.com>) id
+ 1WDFDD-0003hy-Ji for cristobalhof@gmail.com; Tue, 11 Feb 2014 07:25:27 -0800
+
+
+ from smtp02.steampowered.com (smtp02.steampowered.com.
+ [208.64.202.38]) by mx.google.com with ESMTPS id
+ eb3si19281866pbc.356.2014.02.11.07.26.36 for <cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Tue, 11 Feb 2014 07:26:37 -0800
+ (PST)
+
+ from [10.3.3.18] (helo=valvesoftware.com) by smtp02.steampowered.com
+ with smtp (Exim 4.76) (envelope-from <noreply@steampowered.com>) id
+ 1WDVNp-0000m1-G2 for cristobalhof@gmail.com; Wed, 12 Feb 2014 00:41:29 -0800
+
+
+ from smtp02.steampowered.com (smtp02.steampowered.com.
+ [208.64.202.38]) by mx.google.com with ESMTPS id
+ ih5si27313257icb.101.2014.02.12.00.42.38 for <cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Wed, 12 Feb 2014 00:42:38 -0800
+ (PST)
+
+ from [10.3.3.29] (helo=valvesoftware.com) by smtp02.steampowered.com
+ with smtp (Exim 4.76) (envelope-from <noreply@steampowered.com>) id
+ 1WHiBX-00082b-25 for cristobalhof@gmail.com; Sun, 23 Feb 2014 15:10:11 -0800
+
+
+ from smtp02.steampowered.com (smtp02.steampowered.com.
+ [208.64.202.38]) by mx.google.com with ESMTPS id
+ xn1si14571207pbc.8.2014.02.23.15.11.20 for <cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Sun, 23 Feb 2014 15:11:20 -0800
+ (PST)
+
+ from [10.3.3.105] (helo=valvesoftware.com) by
+ smtp02.steampowered.com with smtp (Exim 4.76) (envelope-from
+ <noreply@steampowered.com>) id 1WKFfp-0000Mu-G2 for cristobalhof@gmail.com;
+ Sun, 02 Mar 2014 15:19:57 -0800
+
+
+ from smtp02.steampowered.com (smtp02.steampowered.com.
+ [208.64.202.38]) by mx.google.com with ESMTPS id
+ n8si8558992pab.145.2014.03.02.15.21.07 for <cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Sun, 02 Mar 2014 15:21:07 -0800
+ (PST)
+
+ from [10.3.3.18] (helo=valvesoftware.com) by smtp02.steampowered.com
+ with smtp (Exim 4.76) (envelope-from <noreply@steampowered.com>) id
+ 1WWiGq-0006xa-A6 for cristobalhof@gmail.com; Sun, 06 Apr 2014 01:17:40 -0700
+
+
+ from smtp02.steampowered.com (smtp02.steampowered.com.
+ [208.64.202.38]) by mx.google.com with ESMTPS id
+ mx10si14700171icb.158.2014.04.06.01.18.53 for <cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Sun, 06 Apr 2014 01:18:53 -0700
+ (PDT)
+
+ from [10.3.3.112] (helo=valvesoftware.com) by
+ smtp02.steampowered.com with smtp (Exim 4.76) (envelope-from
+ <noreply@steampowered.com>) id 1WfxDD-0001Lu-3C for cristobalhof@gmail.com;
+ Thu, 01 May 2014 13:04:07 -0700
+
+
+ from smtp02.steampowered.com (smtp02.steampowered.com.
+ [208.64.202.38]) by mx.google.com with ESMTPS id
+ bs7si22787352icc.163.2014.05.01.13.05.22 for <cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Thu, 01 May 2014 13:05:22 -0700
+ (PDT)
+
+ from [10.3.3.48] (helo=valvesoftware.com) by smtp01.steampowered.com
+ with smtp (Exim 4.76) (envelope-from <noreply@steampowered.com>) id
+ 1XBuV5-0003QW-US for cristobalhof@gmail.com; Mon, 28 Jul 2014 16:38:39 -0700
+
+
+ from smtp01.steampowered.com (smtp01.steampowered.com.
+ [208.64.202.37]) by mx.google.com with ESMTPS id
+ b15si5029400pdm.25.2014.07.28.16.47.10 for <cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Mon, 28 Jul 2014 16:47:11 -0700
+ (PDT)
+
+ from [10.3.3.48] (helo=valvesoftware.com) by smtp01.steampowered.com
+ with smtp (Exim 4.76) (envelope-from <noreply@steampowered.com>) id
+ 1XLrGE-0004Qs-7R for cristobalhof@gmail.com; Mon, 25 Aug 2014 03:12:26 -0700
+
+
+ from smtp01.steampowered.com (smtp01.steampowered.com.
+ [208.64.202.37]) by mx.google.com with ESMTPS id
+ ch10si40413636pdb.215.2014.08.25.03.20.57 for <cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Mon, 25 Aug 2014 03:20:57 -0700
+ (PDT)
+
+ from [10.3.3.48] (helo=valvesoftware.com) by smtp01.steampowered.com
+ with smtp (Exim 4.76) (envelope-from <noreply@steampowered.com>) id
+ 1XNqin-0007Sc-Er for cristobalhof@gmail.com; Sat, 30 Aug 2014 15:02:09 -0700
+
+
+ from smtp01.steampowered.com (smtp01.steampowered.com.
+ [208.64.202.37]) by mx.google.com with ESMTPS id
+ gi1si6464133pac.168.2014.08.30.15.10.40 for <cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Sat, 30 Aug 2014 15:10:41 -0700
+ (PDT)
+
+ from [10.3.3.48] (helo=valvesoftware.com) by smtp01.steampowered.com
+ with smtp (Exim 4.76) (envelope-from <noreply@steampowered.com>) id
+ 1XNqje-0007Sc-Te for cristobalhof@gmail.com; Sat, 30 Aug 2014 15:03:02 -0700
+
+
+ from smtp01.steampowered.com (smtp01.steampowered.com.
+ [208.64.202.37]) by mx.google.com with ESMTPS id
+ gi1si6465981pac.168.2014.08.30.15.11.33 for <cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Sat, 30 Aug 2014 15:11:34 -0700
+ (PDT)
+
+ from [10.3.8.141] (helo=valvesoftware.com) by
+ smtp01.steampowered.com with smtp (Exim 4.76) (envelope-from
+ <noreply@steampowered.com>) id 1XTLLI-0004ml-0V for cristobalhof@gmail.com;
+ Sun, 14 Sep 2014 18:44:36 -0700
+
+
+ from smtp01.steampowered.com (smtp01.steampowered.com.
+ [208.64.202.37]) by mx.google.com with ESMTPS id
+ bs9si20140407pdb.145.2014.09.14.18.53.06 for <cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Sun, 14 Sep 2014 18:53:07 -0700
+ (PDT)
+
+ from [10.3.3.48] (helo=valvesoftware.com) by smtp01.steampowered.com
+ with smtp (Exim 4.76) (envelope-from <noreply@steampowered.com>) id
+ 1XXGIC-0007JX-K6 for cristobalhof@gmail.com; Thu, 25 Sep 2014 14:09:36 -0700
+
+
+ from smtp01.steampowered.com (smtp01.steampowered.com.
+ [208.64.202.37]) by mx.google.com with ESMTPS id
+ jd8si5744547pbd.152.2014.09.25.14.18.07 for <cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Thu, 25 Sep 2014 14:18:08 -0700
+ (PDT)
+
+ from [10.3.3.105] (helo=valvesoftware.com) by
+ smtp01.steampowered.com with smtp (Exim 4.76) (envelope-from
+ <noreply@steampowered.com>) id 1Y1mQx-0005BW-N1 for cristobalhof@gmail.com;
+ Thu, 18 Dec 2014 17:32:47 -0800
+
+
+ from smtp01.steampowered.com (smtp01.steampowered.com.
+ [208.64.202.37]) by mx.google.com with ESMTPS id
+ bj6si12280742pdb.175.2014.12.18.17.41.19 for <cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Thu, 18 Dec 2014 17:41:19 -0800
+ (PST)
+
+ from [10.3.3.105] (helo=valvesoftware.com) by
+ smtp01.steampowered.com with smtp (Exim 4.76) (envelope-from
+ <noreply@steampowered.com>) id 1Y1mU5-0005BW-Lv for cristobalhof@gmail.com;
+ Thu, 18 Dec 2014 17:36:01 -0800
+
+
+ from smtp01.steampowered.com (smtp01.steampowered.com.
+ [208.64.202.37]) by mx.google.com with ESMTPS id
+ os6si12335962pdb.146.2014.12.18.17.44.33 for <cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Thu, 18 Dec 2014 17:44:33 -0800
+ (PST)
+
+ from [10.3.3.22] (helo=valvesoftware.com) by smtp01.steampowered.com
+ with smtp (Exim 4.76) (envelope-from <noreply@steampowered.com>) id
+ 1Y3vjk-0000K6-La for cristobalhof@gmail.com; Wed, 24 Dec 2014 15:53:04 -0800
+
+
+ from smtp01.steampowered.com (smtp01.steampowered.com.
+ [208.64.202.37]) by mx.google.com with ESMTPS id
+ oi5si36080045pdb.183.2014.12.24.16.01.36 for <cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Wed, 24 Dec 2014 16:01:36 -0800
+ (PST)
+
+ from [10.3.3.22] (helo=valvesoftware.com) by smtp01.steampowered.com
+ with smtp (Exim 4.76) (envelope-from <noreply@steampowered.com>) id
+ 1YTGl4-0006RZ-9d for cristobalhof@gmail.com; Wed, 04 Mar 2015 13:23:10 -0800
+
+
+ from smtp01.steampowered.com (smtp01.steampowered.com.
+ [208.64.202.37]) by mx.google.com with ESMTPS id
+ cj16si1349819pdb.23.2015.03.04.13.31.43 for <cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Wed, 04 Mar 2015 13:31:44 -0800
+ (PST)
+
+ from [10.3.3.22] (helo=valvesoftware.com) by smtp01.steampowered.com
+ with smtp (Exim 4.76) (envelope-from <noreply@steampowered.com>) id
+ 1YTGmr-0006RZ-HW for cristobalhof@gmail.com; Wed, 04 Mar 2015 13:25:01 -0800
+
+
+ from smtp01.steampowered.com (smtp01.steampowered.com.
+ [208.64.202.37]) by mx.google.com with ESMTPS id
+ db5si6596703pbb.100.2015.03.04.13.33.35 for <cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Wed, 04 Mar 2015 13:33:35 -0800
+ (PST)
+
+ from [10.3.3.22] (helo=valvesoftware.com) by smtp01.steampowered.com
+ with smtp (Exim 4.76) (envelope-from <noreply@steampowered.com>) id
+ 1YUclR-0001zO-V3 for cristobalhof@gmail.com; Sun, 08 Mar 2015 08:05:09 -0700
+
+
+ from smtp01.steampowered.com (smtp01.steampowered.com.
+ [208.64.202.37]) by mx.google.com with ESMTPS id
+ kg7si24182149pbc.170.2015.03.08.08.13.43 for <cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Sun, 08 Mar 2015 08:13:44 -0700
+ (PDT)
+
+ from [10.3.3.22] (helo=valvesoftware.com) by smtp01.steampowered.com
+ with smtp (Exim 4.76) (envelope-from <noreply@steampowered.com>) id
+ 1YUdgG-0000gn-FU for cristobalhof@gmail.com; Sun, 08 Mar 2015 09:03:52 -0700
+
+
+ from smtp01.steampowered.com (smtp01.steampowered.com.
+ [208.64.202.37]) by mx.google.com with ESMTPS id
+ w7si24585450pdn.84.2015.03.08.09.12.26 for <cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Sun, 08 Mar 2015 09:12:26 -0700
+ (PDT)
+
+ from [10.3.3.22] (helo=valvesoftware.com) by smtp01.steampowered.com
+ with smtp (Exim 4.76) (envelope-from <noreply@steampowered.com>) id
+ 1Ynvsb-0006kR-9k for cristobalhof@gmail.com; Thu, 30 Apr 2015 14:20:21 -0700
+
+
+ from smtp01.steampowered.com (smtp01.steampowered.com.
+ [208.64.202.37]) by mx.google.com with ESMTPS id
+ v14si5112069pdj.257.2015.04.30.14.20.21 for <cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Thu, 30 Apr 2015 14:20:21 -0700
+ (PDT)
+
+ from [10.3.3.112] (helo=valvesoftware.com) by
+ smtp01.steampowered.com with smtp (Exim 4.76) (envelope-from
+ <noreply@steampowered.com>) id 1YrqqD-0005xa-Rk for cristobalhof@gmail.com;
+ Mon, 11 May 2015 09:46:05 -0700
+
+
+ from smtp01.steampowered.com (smtp01.steampowered.com.
+ [208.64.202.37]) by mx.google.com with ESMTPS id
+ a5si18639112pat.40.2015.05.11.09.46.05 for <cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Mon, 11 May 2015 09:46:06 -0700
+ (PDT)
+
+ from [10.3.8.109] (helo=valvesoftware.com) by
+ smtp01.steampowered.com with smtp (Exim 4.82) (envelope-from
+ <noreply@steampowered.com>) id 1ZOAVz-0007GX-JM for cristobalhof@gmail.com;
+ Sat, 08 Aug 2015 13:14:47 -0700
+
+
+ from smtp01.steampowered.com (smtp01.steampowered.com.
+ [208.64.202.37]) by mx.google.com with ESMTPS id
+ kq8si25207749pbc.83.2015.08.08.13.14.47 for <cristobalhof@gmail.com>
+ (version=TLS1_2 cipher=AES128-SHA256 bits=128/128); Sat, 08 Aug 2015 13:14:47
+ -0700 (PDT)
+
+ from [10.3.8.109] (helo=valvesoftware.com) by
+ smtp02.steampowered.com with smtp (Exim 4.82) (envelope-from
+ <noreply@steampowered.com>) id 1ZR5AP-0002dY-W4 for cristobalhof@gmail.com;
+ Sun, 16 Aug 2015 14:08:33 -0700
+
+
+ from smtp02.steampowered.com (smtp02.steampowered.com.
+ [208.64.202.38]) by mx.google.com with ESMTPS id
+ ez8si21185391pdb.82.2015.08.16.14.08.34 for <cristobalhof@gmail.com>
+ (version=TLS1_2 cipher=AES128-SHA256 bits=128/128); Sun, 16 Aug 2015 14:08:34
+ -0700 (PDT)
+
+ from [10.3.9.27] (helo=valvesoftware.com) by smtp01.steampowered.com
+ with smtp (Exim 4.82) (envelope-from <noreply@steampowered.com>) id
+ 1ZaYBj-0008UL-VL for cristobalhof@gmail.com; Fri, 11 Sep 2015 16:57:03 -0700
+
+
+ from smtp01.steampowered.com (smtp01.steampowered.com.
+ [208.64.202.37]) by mx.google.com with ESMTPS id
+ zf1si3637114pac.38.2015.09.11.16.57.04 for <cristobalhof@gmail.com>
+ (version=TLSv1.2 cipher=RC4-SHA bits=128/128); Fri, 11 Sep 2015 16:57:04
+ -0700 (PDT)
+
+ from [10.3.8.207] (helo=valvesoftware.com) by
+ smtp02.steampowered.com with smtp (Exim 4.82) (envelope-from
+ <noreply@steampowered.com>) id 1ZfYwc-0006ae-V4 for cristobalhof@gmail.com;
+ Fri, 25 Sep 2015 12:46:11 -0700
+
+
+ from smtp02.steampowered.com (smtp02.steampowered.com.
+ [208.64.202.38]) by mx.google.com with ESMTPS id
+ uy2si7648513pac.86.2015.09.25.12.46.12 for <cristobalhof@gmail.com>
+ (version=TLSv1.2 cipher=RC4-SHA bits=128/128); Fri, 25 Sep 2015 12:46:12
+ -0700 (PDT)
+
+ from [10.3.8.207] (helo=valvesoftware.com) by
+ smtp01.steampowered.com with smtp (Exim 4.82) (envelope-from
+ <noreply@steampowered.com>) id 1ZkdaC-0004Ql-CT for cristobalhof@gmail.com;
+ Fri, 09 Oct 2015 12:44:00 -0700
+
+
+ from smtp01.steampowered.com (smtp01.steampowered.com.
+ [208.64.202.37]) by mx.google.com with ESMTPS id
+ rn4si4794162pbc.138.2015.10.09.12.44.00 for <cristobalhof@gmail.com>
+ (version=TLSv1.2 cipher=RC4-SHA bits=128/128); Fri, 09 Oct 2015 12:44:00
+ -0700 (PDT)
+
+ from [10.3.8.207] (helo=valvesoftware.com) by
+ smtp01.steampowered.com with smtp (Exim 4.82) (envelope-from
+ <noreply@steampowered.com>) id 1a2qkm-0005Ow-Ct for cristobalhof@gmail.com;
+ Sat, 28 Nov 2015 17:26:12 -0800
+
+
+ from smtp01.steampowered.com (smtp01.steampowered.com.
+ [208.64.202.37]) by mx.google.com with ESMTPS id
+ xu3si1464568pab.194.2015.11.28.17.26.12 for <cristobalhof@gmail.com>
+ (version=TLS1_2 cipher=AES128-SHA bits=128/128); Sat, 28 Nov 2015 17:26:12
+ -0800 (PST)
+
+ from [208.64.202.21] (helo=valvesoftware.com) by
+ smtp01.steampowered.com with smtp (Exim 4.82) (envelope-from
+ <noreply@steampowered.com>) id 1agK16-0008AO-97 for cristobalhof@gmail.com;
+ Wed, 16 Mar 2016 15:34:12 -0700
+
+
+ from smtp01.steampowered.com (smtp01.steampowered.com.
+ [208.64.202.37]) by mx.google.com with ESMTPS id
+ p28si7768813pfi.167.2016.03.16.15.34.12 for <cristobalhof@gmail.com>
+ (version=TLS1_2 cipher=AES128-SHA bits=128/128); Wed, 16 Mar 2016 15:34:12
+ -0700 (PDT)
+
+ from [208.64.202.21] (helo=valvesoftware.com) by
+ smtp01.steampowered.com with smtp (Exim 4.82) (envelope-from
+ <noreply@steampowered.com>) id 1agK5x-0004gr-Ex for cristobalhof@gmail.com;
+ Wed, 16 Mar 2016 15:39:13 -0700
+
+
+ from smtp01.steampowered.com (smtp01.steampowered.com.
+ [208.64.202.37]) by mx.google.com with ESMTPS id
+ sh4si7764558pac.148.2016.03.16.15.39.13 for <cristobalhof@gmail.com>
+ (version=TLS1_2 cipher=AES128-SHA bits=128/128); Wed, 16 Mar 2016 15:39:13
+ -0700 (PDT)
+
+ from [208.64.202.21] (helo=valvesoftware.com) by
+ smtp04.steampowered.com with smtp (Exim 4.82) (envelope-from
+ <noreply@steampowered.com>) id 1agK6U-0003UH-QO for cristobalhof@gmail.com;
+ Wed, 16 Mar 2016 15:39:46 -0700
+
+
+ from smtp04.steampowered.com (smtp04.steampowered.com.
+ [208.64.202.43]) by mx.google.com with ESMTPS id
+ x6si7783184pas.72.2016.03.16.15.39.46 for <cristobalhof@gmail.com>
+ (version=TLS1_2 cipher=AES128-SHA bits=128/128); Wed, 16 Mar 2016 15:39:46
+ -0700 (PDT)
+
+ from [208.64.202.21] (helo=valvesoftware.com) by
+ smtp02.steampowered.com with smtp (Exim 4.82) (envelope-from
+ <noreply@steampowered.com>) id 1agK74-0000qW-K2 for cristobalhof@gmail.com;
+ Wed, 16 Mar 2016 15:40:22 -0700
+
+
+ from smtp02.steampowered.com (smtp02.steampowered.com.
+ [208.64.202.38]) by mx.google.com with ESMTPS id
+ tf6si7734896pac.233.2016.03.16.15.40.22 for <cristobalhof@gmail.com>
+ (version=TLS1_2 cipher=AES128-SHA bits=128/128); Wed, 16 Mar 2016 15:40:22
+ -0700 (PDT)
+
+ from [208.64.202.21] (helo=valvesoftware.com) by
+ smtp02.steampowered.com with smtp (Exim 4.82) (envelope-from
+ <noreply@steampowered.com>) id 1agKA5-0000sR-Nq for cristobalhof@gmail.com;
+ Wed, 16 Mar 2016 15:43:29 -0700
+
+
+ from smtp02.steampowered.com (smtp02.steampowered.com.
+ [208.64.202.38]) by mx.google.com with ESMTPS id
+ wb2si7758455pab.213.2016.03.16.15.43.29 for <cristobalhof@gmail.com>
+ (version=TLS1_2 cipher=AES128-SHA bits=128/128); Wed, 16 Mar 2016 15:43:29
+ -0700 (PDT)
+
+ from [208.64.202.21] (helo=valvesoftware.com) by
+ smtp03.steampowered.com with smtp (Exim 4.82) (envelope-from
+ <noreply@steampowered.com>) id 1aqOkl-0003Gs-7S for cristobalhof@gmail.com;
+ Wed, 13 Apr 2016 10:38:59 -0700
+
+
+ from smtp03.steampowered.com (smtp03.steampowered.com.
+ [208.64.202.39]) by mx.google.com with ESMTPS id
+ i64si3892450pfi.132.2016.04.13.10.38.59 for <cristobalhof@gmail.com>
+ (version=TLS1_2 cipher=AES128-SHA bits=128/128); Wed, 13 Apr 2016 10:38:59
+ -0700 (PDT)
+
+ from [208.64.202.21] (helo=valvesoftware.com) by
+ smtp03.steampowered.com with smtp (Exim 4.82) (envelope-from
+ <noreply@steampowered.com>) id 1b0Kot-0007Bn-VH for cristobalhof@gmail.com;
+ Tue, 10 May 2016 20:28:19 -0700
+
+
+ from smtp03.steampowered.com (smtp03.steampowered.com.
+ [208.64.202.39]) by mx.google.com with ESMTPS id
+ y2si6599598pfa.52.2016.05.10.20.28.20 for <cristobalhof@gmail.com>
+ (version=TLS1_2 cipher=AES128-SHA bits=128/128); Tue, 10 May 2016 20:28:20
+ -0700 (PDT)
+

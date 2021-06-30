@@ -1,0 +1,367 @@
+ from spruce-goose-av.twitter.com (spruce-goose-av.twitter.com.
+ [199.59.150.91]) by mx.google.com with ESMTP id
+ xq4si2844686pab.173.1969.12.31.16.00.00; Fri, 23 Aug 2013 23:17:18 -0700
+ (PDT)
+
+
+ by 10.58.200.200 with SMTP id ju8csp134176vec; Fri, 23 Aug 2013
+ 23:17:18 -0700 (PDT)
+
+ from spruce-goose-au.twitter.com (ham-cannon.twitter.com.
+ [199.59.148.240]) by mx.google.com with ESMTP id
+ mj9si30390261pab.190.1969.12.31.16.00.00; Fri, 30 Aug 2013 06:23:08 -0700
+ (PDT)
+
+
+ by 10.58.200.200 with SMTP id ju8csp88711vec; Fri, 30 Aug 2013
+ 06:23:08 -0700 (PDT)
+
+ from spring-chicken-bg.twitter.com (spring-chicken-bg.twitter.com.
+ [199.16.156.172]) by mx.google.com with ESMTP id
+ f23si679944yhe.218.1969.12.31.16.00.00; Fri, 30 Aug 2013 23:51:09 -0700 (PDT)
+
+
+ by 10.58.200.200 with SMTP id ju8csp7151vec; Fri, 30 Aug 2013
+ 23:51:09 -0700 (PDT)
+
+ from spring-chicken-ai.twitter.com (spring-chicken-ai.twitter.com.
+ [199.16.156.148]) by mx.google.com with ESMTP id
+ a48si446457yhd.62.1969.12.31.16.00.00; Fri, 06 Sep 2013 21:04:43 -0700 (PDT)
+
+
+ by 10.58.200.200 with SMTP id ju8csp380201vec; Fri, 6 Sep 2013
+ 21:04:44 -0700 (PDT)
+
+ from spring-chicken-ax.twitter.com (spring-chicken-ax.twitter.com.
+ [199.16.156.163]) by mx.google.com with ESMTP id
+ g27si337545yhh.197.1969.12.31.16.00.00; Sat, 07 Sep 2013 23:43:58 -0700 (PDT)
+
+
+ by 10.58.200.200 with SMTP id ju8csp26349vec; Sat, 7 Sep 2013
+ 23:43:58 -0700 (PDT)
+
+ from spruce-goose-am.twitter.com (spruce-goose-am.twitter.com.
+ [199.59.150.82]) by mx.google.com with ESMTP id
+ if6si9441281pbc.193.1969.12.31.16.00.00; Fri, 13 Sep 2013 18:35:05 -0700
+ (PDT)
+
+
+ by 10.58.164.36 with SMTP id yn4csp85309veb; Fri, 13 Sep 2013
+ 18:35:06 -0700 (PDT)
+
+ from spring-chicken-ar.twitter.com (spring-chicken-ar.twitter.com.
+ [199.16.156.157]) by mx.google.com with ESMTP id
+ r6si6093180yhd.373.1969.12.31.16.00.00; Mon, 16 Sep 2013 02:26:47 -0700 (PDT)
+
+
+ by 10.58.164.36 with SMTP id yn4csp81525veb; Mon, 16 Sep 2013
+ 02:26:47 -0700 (PDT)
+
+ from spring-chicken-bm.twitter.com (spring-chicken-bm.twitter.com.
+ [199.16.156.178]) by mx.google.com with ESMTP id
+ 63si6944604yhi.7.1969.12.31.16.00.00; Sat, 21 Sep 2013 02:08:36 -0700 (PDT)
+
+
+ by 10.58.164.36 with SMTP id yn4csp61990veb; Sat, 21 Sep 2013
+ 02:08:36 -0700 (PDT)
+
+ from spruce-goose-av.twitter.com (spruce-goose-av.twitter.com.
+ [199.59.150.91]) by mx.google.com with ESMTP id
+ dj4si19250686pbc.14.1969.12.31.16.00.00; Sun, 22 Sep 2013 18:45:40 -0700
+ (PDT)
+
+
+ by 10.58.164.36 with SMTP id yn4csp124648veb; Sun, 22 Sep 2013
+ 18:45:41 -0700 (PDT)
+
+ from spring-chicken-aq.twitter.com (spring-chicken-aq.twitter.com.
+ [199.16.156.156]) by mx.google.com with ESMTP id
+ o10si3781330yhd.328.1969.12.31.16.00.00; Fri, 27 Sep 2013 16:39:05 -0700
+ (PDT)
+
+
+ by 10.58.164.36 with SMTP id yn4csp444494veb; Fri, 27 Sep 2013
+ 16:39:05 -0700 (PDT)
+
+ from spruce-goose-ar.twitter.com (spruce-goose-ar.twitter.com.
+ [199.59.150.87]) by mx.google.com with ESMTP id
+ m3si2166913pan.172.1969.12.31.16.00.00; Mon, 30 Sep 2013 17:28:03 -0700 (PDT)
+
+
+ by 10.58.164.36 with SMTP id yn4csp131805veb; Mon, 30 Sep 2013
+ 17:28:04 -0700 (PDT)
+
+ from spring-chicken-al.twitter.com (spring-chicken-al.twitter.com.
+ [199.16.156.151]) by mx.google.com with ESMTP id
+ l43si11129139yha.24.1969.12.31.16.00.00; Mon, 07 Oct 2013 07:53:01 -0700
+ (PDT)
+
+
+ by 10.140.27.201 with SMTP id 67csp94377qgx; Mon, 7 Oct 2013
+ 07:53:02 -0700 (PDT)
+
+ from spruce-goose-ag.twitter.com (spruce-goose-ag.twitter.com.
+ [199.59.150.76]) by mx.google.com with ESMTP id
+ hk5si42861072pac.212.1969.12.31.16.00.00; Sat, 12 Oct 2013 01:36:54 -0700
+ (PDT)
+
+
+ by 10.140.27.201 with SMTP id 67csp65878qgx; Sat, 12 Oct 2013
+ 01:36:55 -0700 (PDT)
+
+ from spring-chicken-bc.twitter.com (spring-chicken-bc.twitter.com.
+ [199.16.156.168]) by mx.google.com with ESMTP id
+ g27si24295615yhh.401.1969.12.31.16.00.00; Mon, 14 Oct 2013 00:34:16 -0700
+ (PDT)
+
+
+ by 10.194.61.205 with SMTP id s13csp170207wjr; Mon, 14 Oct 2013
+ 00:34:17 -0700 (PDT)
+
+ from spruce-goose-aa.twitter.com (spruce-goose-aa.twitter.com.
+ [199.59.150.70]) by mx.google.com with ESMTP id
+ e5si6663834pbj.308.2013.10.21.05.30.53 for <Cristobalhof@gmail.com>; Mon, 21
+ Oct 2013 05:30:54 -0700 (PDT)
+
+
+ by 10.194.61.205 with SMTP id s13csp122257wjr; Mon, 21 Oct 2013
+ 05:30:55 -0700 (PDT)
+
+ from spring-chicken-am.twitter.com (spring-chicken-am.twitter.com.
+ [199.16.156.152]) by mx.google.com with ESMTP id
+ y65si7024274yhy.282.2013.10.27.09.27.51 for <Cristobalhof@gmail.com>; Sun, 27
+ Oct 2013 09:27:52 -0700 (PDT)
+
+
+ by 10.58.164.36 with SMTP id yn4csp36289veb; Sun, 27 Oct 2013
+ 09:27:52 -0700 (PDT)
+
+ from spring-chicken-bn.twitter.com (spring-chicken-bn.twitter.com.
+ [199.16.156.179]) by mx.google.com with ESMTP id
+ k26si7240201yha.174.2013.10.27.12.34.44 for <Cristobalhof@gmail.com>; Sun, 27
+ Oct 2013 12:34:44 -0700 (PDT)
+
+
+ by 10.58.164.36 with SMTP id yn4csp40851veb; Sun, 27 Oct 2013
+ 12:34:44 -0700 (PDT)
+
+ from spruce-goose-ad.twitter.com (spruce-goose-ad.twitter.com.
+ [199.59.150.73]) by mx.google.com with ESMTP id
+ dl5si7523251pbd.146.2013.11.02.18.06.49 for <Cristobalhof@gmail.com>; Sat, 02
+ Nov 2013 18:06:50 -0700 (PDT)
+
+
+ by 10.58.164.36 with SMTP id yn4csp30098veb; Sat, 2 Nov 2013
+ 18:06:52 -0700 (PDT)
+
+ from spruce-goose-an.twitter.com (spruce-goose-an.twitter.com.
+ [199.59.150.83]) by mx.google.com with ESMTP id
+ o9si12350956qez.6.2013.11.10.08.24.22 for <Cristobalhof@gmail.com>; Sun, 10
+ Nov 2013 08:24:22 -0800 (PST)
+
+
+ by 10.58.164.36 with SMTP id yn4csp33031veb; Sun, 10 Nov 2013
+ 08:24:32 -0800 (PST)
+
+ from spruce-goose-ax.twitter.com (spruce-goose-ax.twitter.com.
+ [199.59.150.93]) by mx.google.com with ESMTP id
+ s3si5095229qas.53.2013.11.15.23.01.45 for <Cristobalhof@gmail.com>; Fri, 15
+ Nov 2013 23:01:45 -0800 (PST)
+
+
+ by 10.58.164.36 with SMTP id yn4csp76359veb; Fri, 15 Nov 2013
+ 23:01:45 -0800 (PST)
+
+ from spruce-goose-bd.twitter.com (spruce-goose-bd.twitter.com.
+ [199.59.150.99]) by mx.google.com with ESMTP id
+ n8si22812151pax.305.2013.11.23.08.00.23 for <Cristobalhof@gmail.com>; Sat, 23
+ Nov 2013 08:00:23 -0800 (PST)
+
+
+ by 10.58.171.68 with SMTP id as4csp26658vec; Sat, 23 Nov 2013
+ 08:00:24 -0800 (PST)
+
+ from spruce-goose-ab.twitter.com (spruce-goose-ab.twitter.com.
+ [199.59.150.71]) by mx.google.com with ESMTP id
+ xj9si22264826pab.34.2013.11.25.01.40.19 for <Cristobalhof@gmail.com>; Mon, 25
+ Nov 2013 01:40:20 -0800 (PST)
+
+
+ by 10.58.171.68 with SMTP id as4csp120310vec; Mon, 25 Nov 2013
+ 01:40:21 -0800 (PST)
+
+ from spring-chicken-af.twitter.com (spring-chicken-af.twitter.com.
+ [199.16.156.145]) by mx.google.com with ESMTP id
+ a23si9417743yhb.274.2013.11.29.17.21.23 for <Cristobalhof@gmail.com>; Fri, 29
+ Nov 2013 17:21:23 -0800 (PST)
+
+
+ by 10.58.171.68 with SMTP id as4csp125685vec; Fri, 29 Nov 2013
+ 17:21:23 -0800 (PST)
+
+ from spruce-goose-bc.twitter.com (spruce-goose-bc.twitter.com.
+ [199.59.150.98]) by mx.google.com with ESMTP id
+ nu5si4919981pbc.88.2013.12.01.01.50.24 for <Cristobalhof@gmail.com>; Sun, 01
+ Dec 2013 01:50:25 -0800 (PST)
+
+
+ by 10.58.171.68 with SMTP id as4csp7571vec; Sun, 1 Dec 2013 01:50:25
+ -0800 (PST)
+
+ from spruce-goose-ar.twitter.com (spruce-goose-ar.twitter.com.
+ [199.59.150.87]) by mx.google.com with ESMTP id
+ 8si2989323pbe.280.2013.12.13.19.49.01 for <Cristobalhof@gmail.com>; Fri, 13
+ Dec 2013 19:49:01 -0800 (PST)
+
+
+ by 10.58.171.68 with SMTP id as4csp84034vec; Fri, 13 Dec 2013
+ 19:49:02 -0800 (PST)
+
+ from spruce-goose-au.twitter.com (spruce-goose-au.twitter.com.
+ [199.59.150.90]) by mx.google.com with ESMTP id
+ ek3si6975842pbd.235.2013.12.20.21.29.48 for <Cristobalhof@gmail.com>; Fri, 20
+ Dec 2013 21:29:48 -0800 (PST)
+
+
+ by 10.58.171.68 with SMTP id as4csp116747vec; Fri, 20 Dec 2013
+ 21:29:49 -0800 (PST)
+
+ from spruce-goose-ap.twitter.com (spruce-goose-ap.twitter.com.
+ [199.59.150.85]) by mx.google.com with ESMTP id
+ yy4si35730492pbc.249.2014.01.04.13.52.20 for <Cristobalhof@gmail.com>; Sat,
+ 04 Jan 2014 13:52:21 -0800 (PST)
+
+
+ by 10.58.171.68 with SMTP id as4csp23899vec; Sat, 4 Jan 2014
+ 13:52:21 -0800 (PST)
+
+ from spruce-goose-at.twitter.com (spruce-goose-at.twitter.com.
+ [199.59.150.89]) by mx.google.com with ESMTPS id
+ xy6si11612739pab.298.2014.01.17.17.16.26 for <Cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Fri, 17 Jan 2014 17:16:27 -0800
+ (PST)
+
+
+ by 10.58.171.68 with SMTP id as4csp65865vec; Fri, 17 Jan 2014
+ 17:16:28 -0800 (PST)
+
+ from spring-chicken-ad.twitter.com (spring-chicken-ad.twitter.com.
+ [199.16.156.143]) by mx.google.com with ESMTPS id
+ k29si2838615yha.168.2014.01.24.22.39.46 for <Cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Fri, 24 Jan 2014 22:39:46 -0800
+ (PST)
+
+
+ by 10.58.171.68 with SMTP id as4csp191640vec; Fri, 24 Jan 2014
+ 22:39:47 -0800 (PST)
+
+ from spruce-goose-ab.twitter.com (spruce-goose-ab.twitter.com.
+ [199.59.150.71]) by mx.google.com with ESMTPS id
+ xk2si11839565pab.71.2014.01.31.13.10.40 for <Cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Fri, 31 Jan 2014 13:10:41 -0800
+ (PST)
+
+
+ by 10.58.171.68 with SMTP id as4csp155725vec; Fri, 31 Jan 2014
+ 13:10:42 -0800 (PST)
+
+ from spruce-goose-at.twitter.com (spruce-goose-at.twitter.com.
+ [199.59.150.89]) by mx.google.com with ESMTPS id
+ yh9si16929655pab.295.2014.02.02.04.25.11 for <Cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Sun, 02 Feb 2014 04:25:12 -0800
+ (PST)
+
+
+ by 10.140.93.112 with SMTP id c103csp52593qge; Sun, 2 Feb 2014
+ 04:25:12 -0800 (PST)
+
+ from spruce-goose-an.twitter.com (spruce-goose-an.twitter.com.
+ [199.59.150.83]) by mx.google.com with ESMTPS id
+ yy4si14290758pbc.9.2014.02.09.23.27.00 for <Cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Sun, 09 Feb 2014 23:27:01 -0800
+ (PST)
+
+
+ by 10.140.93.112 with SMTP id c103csp117689qge; Sun, 9 Feb 2014
+ 23:27:01 -0800 (PST)
+
+ from spruce-goose-aw.twitter.com (spruce-goose-aw.twitter.com.
+ [199.59.150.92]) by mx.google.com with ESMTPS id
+ ye6si11680195pbc.140.2014.02.16.05.39.17 for <Cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Sun, 16 Feb 2014 05:39:18 -0800
+ (PST)
+
+
+ by 10.140.93.112 with SMTP id c103csp65866qge; Sun, 16 Feb 2014
+ 05:39:18 -0800 (PST)
+
+ from spruce-goose-au.twitter.com (spruce-goose-au.twitter.com.
+ [199.59.150.90]) by mx.google.com with ESMTPS id
+ ek3si12009867pbd.235.2014.02.16.08.15.01 for <Cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Sun, 16 Feb 2014 08:15:01 -0800
+ (PST)
+
+
+ by 10.140.93.112 with SMTP id c103csp73029qge; Sun, 16 Feb 2014
+ 08:15:03 -0800 (PST)
+
+ from spring-chicken-ao.twitter.com (spring-chicken-ao.twitter.com.
+ [199.16.156.154]) by mx.google.com with ESMTPS id
+ u36si13537172yhp.94.2014.02.16.21.39.51 for <Cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Sun, 16 Feb 2014 21:39:51 -0800
+ (PST)
+
+
+ by 10.140.93.112 with SMTP id c103csp103387qge; Sun, 16 Feb 2014
+ 21:39:52 -0800 (PST)
+
+ from spring-chicken-av.twitter.com (spring-chicken-av.twitter.com.
+ [199.16.156.161]) by mx.google.com with ESMTPS id
+ b61si1920834yhj.42.2014.02.19.21.45.41 for <Cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Wed, 19 Feb 2014 21:45:41 -0800
+ (PST)
+
+
+ by 10.140.93.112 with SMTP id c103csp109449qge; Wed, 19 Feb 2014
+ 21:45:41 -0800 (PST)
+
+ from spruce-goose-ag.twitter.com (spruce-goose-ag.twitter.com.
+ [199.59.150.76]) by mx.google.com with ESMTPS id
+ ha5si11753808pbc.180.2014.02.22.18.55.51 for <Cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Sat, 22 Feb 2014 18:55:51 -0800
+ (PST)
+
+
+ by 10.140.93.112 with SMTP id c103csp122835qge; Sat, 22 Feb 2014
+ 18:55:52 -0800 (PST)
+
+ from spring-chicken-ak.twitter.com (spring-chicken-ak.twitter.com.
+ [199.16.156.150]) by mx.google.com with ESMTPS id
+ o63si11349633yhp.39.2014.02.23.18.26.36 for <Cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Sun, 23 Feb 2014 18:26:36 -0800
+ (PST)
+
+
+ by 10.140.93.112 with SMTP id c103csp12570qge; Sun, 23 Feb 2014
+ 18:26:36 -0800 (PST)
+
+ from spruce-goose-as.twitter.com (spruce-goose-as.twitter.com.
+ [199.59.150.88]) by mx.google.com with ESMTPS id
+ s1si15459506pav.161.2014.02.23.20.51.34 for <Cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Sun, 23 Feb 2014 20:51:35 -0800
+ (PST)
+
+
+ by 10.140.93.112 with SMTP id c103csp17041qge; Sun, 23 Feb 2014
+ 20:51:35 -0800 (PST)
+
+ from spruce-goose-ak.twitter.com (spruce-goose-ak.twitter.com.
+ [199.59.150.80]) by mx.google.com with ESMTPS id
+ af7si16523453pad.293.2014.02.24.02.21.49 for <Cristobalhof@gmail.com>
+ (version=TLSv1 cipher=RC4-SHA bits=128/128); Mon, 24 Feb 2014 02:21:50 -0800
+ (PST)
+
+
+ by 10.140.93.112 with SMTP id c103csp30753qge; Mon, 24 Feb 2014
+ 02:21:50 -0800 (PST)
+
